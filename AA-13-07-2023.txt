@@ -16,7 +16,7 @@ print(fib)
 return result[::-1]
 
 
-4. uppercase in Python3
+4. teststs in Python3
 N/A
 5. with open("/content/numbers.txt", "r") as file:
   
